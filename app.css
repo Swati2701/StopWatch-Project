@@ -1,0 +1,21 @@
+.container{
+    height: 300px;
+    width: 100%;
+    
+}
+
+#display{
+    width: 100%;
+    font-size: xx-large;
+    text-align: center;
+    margin: 0px auto;
+    font-weight: bold;
+
+}
+
+.buttons{
+    text-align: center;
+    width: 100%;
+    border: black;
+}
+
